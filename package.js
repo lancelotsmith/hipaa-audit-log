@@ -1,7 +1,7 @@
 Package.describe({
   summary: "HIPAA audit log for ClinicalFramework.",
   version: "2.4.2",
-  git: "http://github.com/clinical-meteor/clinical-hipaa-audit-log.git",
+  git: "https://github.com/lancelotsmith/hipaa-audit-log.git",
   name: "clinical:hipaa-audit-log"
 });
 
